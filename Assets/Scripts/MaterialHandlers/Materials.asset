@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7804e77c2d7b6e499363db3c75e18fe, type: 3}
+  m_Name: Materials
+  m_EditorClassIdentifier: 
+  RedFirstVehicle: {fileID: 2100000, guid: 8301c89a6c199f0498e336716e06c00a, type: 2}
+  RedSecondVehicle: {fileID: 2100000, guid: c988fba49b446644aafa6cd04dc87a1c, type: 2}
+  RedRope: {fileID: 2100000, guid: cfb68100f0ebe9043be00cff2ebea4da, type: 2}
+  BlueFirstVehicle: {fileID: 2100000, guid: a97ca2273a33ae2418805a0730326fec, type: 2}
+  BlueSecondVehicle: {fileID: 2100000, guid: ece2c36285e40eb4cb69ffe7e61f25a7, type: 2}
+  BlueRope: {fileID: 2100000, guid: fabe8935b7d41b147a4eb3120473cd42, type: 2}
+  GreenFirstVehicle: {fileID: 2100000, guid: 198b86046640bfe45a6ad156280361c3, type: 2}
+  GreenSecondVehicle: {fileID: 2100000, guid: fb87feae8b1f3734a83d3f74246bf38d, type: 2}
+  GreenRope: {fileID: 2100000, guid: 01772fe4d2e24cd4a8e4c42b8377f4e5, type: 2}
+  PurpleFirstVehicle: {fileID: 2100000, guid: 837f4aa3fa8b7ad4c861e4cd0e3d7961, type: 2}
+  PurpleSecondVehicle: {fileID: 2100000, guid: fc0d7db6eb8aaaf499d9f790aae73556, type: 2}
+  PurpleRope: {fileID: 2100000, guid: 137958aac5a41d14d976245788bddcff, type: 2}
